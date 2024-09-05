@@ -4,35 +4,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Accueil-kayan.tv</title>
+    <title>Accueil - kayan.tv</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        /* Ajoutez ici vos styles CSS pour la navbarre si nécessaire */
+        .navbarre {
+            background-color: #1ccdd3;
+            padding: 10px;
+        }
 
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            gap: 150px;
+        }
 
+        nav li {
+            display: inline;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        .logo {
+            width: 70px;
+            /* Ajustez la largeur souhaitée */
+            height: auto;
+            /* Maintient les proportions */
+            border-radius: 50px;
+
+        }
+    </style>
 </head>
 
 <body>
-
     <header>
-        <div class="navbarre">
-            <nav role="navigation">
-                <li><img src="./img/logo.jpg" alt="logo-kayantv"></li>
-                <li><a href="./index.html">Accueill</a></li>
-                <li><a href="">Film</a></li>
-                <li><a href="">Série</a></li>
-                <li><a href="">Nouveauté</a></li>
-                <li><i class="fas fa-search"></i></li>
-                <li><i class="fas fa-user"></i>
-                </li>
-            </nav>
-        </div>
+        <nav class="navbarre" role="navigation">
+            <ul>
+                <li></li> <a href="/index.html"><img src="./img/logo.PNG" class="logo" alt="logo-kayantv"></a>
+                <li><a href="/index.html">Accueil</a></li>
+                <li><a href="#">Film</a></li>
+                <li><a href="#">Série</a></li>
+                <li><a href="#">Nouveauté</a></li>
+                <li><a href="#"><i class="fas fa-search"></i></a></li>
+                <li><a href="#"><i class="fas fa-user"></i></a></li>
+            </ul>
+        </nav>
     </header>
+
     <main>
-
+        <!-- Contenu principal de la page -->
     </main>
+
     <footer>
-
+        <!-- Contenu du pied de page -->
     </footer>
-
 </body>
 
 </html>

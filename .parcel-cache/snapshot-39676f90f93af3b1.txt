@@ -18,11 +18,11 @@
 71C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\domutils\readme.md133700271047764746 0
 68C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\posthtml-render133700271042923915 1
 84C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\entities\lib\maps\entities.json133700271045930637 0
-50C:\Users\besty\OneDrive\Bureau\kayan.tv\.gitignore133700270613519683 0
+50C:\Users\besty\OneDrive\Bureau\kayan.tv\.gitignore133700276757826726 0
 57C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\svgo133700271051210374 1
 68C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\braces\index.js133700271042888969 0
 66C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\color-convert133700271044088289 1
-50C:\Users\besty\OneDrive\Bureau\kayan.tv\index.html133700273836653310 0
+50C:\Users\besty\OneDrive\Bureau\kayan.tv\index.html133700280002755022 0
 73C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\js-yaml\package.json133700271050721033 0
 99C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\css-select\node_modules\dom-serializer\lib\esm133700271047011406 1
 97C:\Users\besty\OneDrive\Bureau\kayan.tv\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133700271043414867 0
